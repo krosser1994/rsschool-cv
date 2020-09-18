@@ -1,5 +1,13 @@
 body{
-font-family: san-serif;
+font-family: sans-serif;
+}
+
+h1{
+  padding-left:10px;
+}
+
+p{
+  padding-left:10px;
 }
 
 .round{
@@ -16,13 +24,6 @@ border-radius: 100px;
 
 .right-part{
   display:inline-block;
-  width:65%
+  width:65%;
 }
 
-h1{
-  padding-left:10px;
-}
-
-p{
-  padding-left:10px;
-}
