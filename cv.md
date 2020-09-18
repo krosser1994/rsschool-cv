@@ -11,3 +11,23 @@ I work in internet trade industry selling eletronic devices. Therefore I am an a
 - **Languages**: English (B1-B2), Russian (native)
 - **Phototyping**: Photoshop, Figma, Balsamiq
 - **Other**: Css, Html, JavaScript, Microsoft Office, Simpla
+
+## Education
+
+- Belarus State University, Management
+- Gomel State College of Arts. N.F. Sokolovsky, piano
+
+## Work Experience
+
+**1. Bubble Mix Cafe Cofounder (2014-2017)**
+
+ - Organization of the enterprise
+ - Staff training
+ - Budget planning
+ - Founding partners
+
+**2. Purchasing manager (2017-Until now)**
+
+ - Assistant Director
+ - Purchase of goods
+ - Founding partners
