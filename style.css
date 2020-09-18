@@ -12,14 +12,14 @@ p{
 
 .round{
 border-radius:100px;
-width:100px;
+width:200px;
 }
 
 aside{
   display:inline-block;
   width:30%;
   vertical-align:top;
-  background-color:#cccccc;
+  background-color:#eeeeee;
   color:#ffffff;
 }
 
