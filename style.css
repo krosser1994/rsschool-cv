@@ -12,7 +12,8 @@ p{
 
 .round{
 border-radius:100px;
-width:200px;
+width:80%;
+height:auto;
 }
 
 aside{
