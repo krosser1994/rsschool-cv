@@ -3,11 +3,11 @@ font-family:sans-serif;
 }
 
 h1{
-  padding-left:10px;
   text-align:center;
 }
 
-p{
+.contacts{
+  padding-left:50px;
   
 }
 
@@ -20,14 +20,15 @@ p{
 
 aside{
   display:inline-block;
-  width:30%;
+  width:35%;
   vertical-align:top;
-  background-color:#564ff8;
+  background-color:#000000;
   color:#ffffff;
 }
 
 .right-part{
   display:inline-block;
   width:65%;
-  padding-left:50px;
+  padding-left:20px;
+  background-color:#e6e6e6;
 }
