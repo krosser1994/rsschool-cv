@@ -26,13 +26,15 @@ aside{
 }
 
 .photo{
+  display: block;
+  position:relative;
   width: 100%;
   padding-top: 50px;
-  background: url(/img/image.jpg) no-repeat -70px 0;
 }
 
 .round{
-  width:30%;
+  width: 80px;
+  height: 80px;
   display:block;
   border-radius:100px;
   margin-left:auto;
