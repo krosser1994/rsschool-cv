@@ -8,35 +8,40 @@ h1{
 
 aside{
   display:inline-block;
-  max-width:35%;
+  width:35%;
   vertical-align:top;
   background-color:#000000;
   color:#ffffff;
+  vertical-align:center;
 }
 
 .right-part{
   display:inline-block;
-  max-width:60%;
+  width:63%;
   padding-left:20px;
   background-color:#e6e6e6;
 }
 
 .contacts{
-  padding-left:50px;
+  line-height:25px;
+  text-align:center;
+  margin-bottom: 175px;
 }
 
 .photo{
   display: block;
   position:relative;
-  width: 100%;
-  padding-top: 50px;
+  width: 150px;
+  overflow: hidden;
+  margin:auto;
+  margin-top: 50px;
+  border-radius: 100%;
 }
 
 .round{
-  width: 80px;
-  height: 80px;
+  width: 100%;
+  height: auto;
   display:block;
-  border-radius:100px;
-  margin-left:auto;
-  margin-right:auto;
 }
+
+</style>
