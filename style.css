@@ -4,15 +4,18 @@ font-family:sans-serif;
 
 h1{
   padding-left:10px;
+  text-align:center;
 }
 
 p{
-  padding-left:10px;
-  color:#f7e000;
+  
 }
 
 .round{
-border-radius:100px;
+  border-radius:100px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 aside{
@@ -26,4 +29,5 @@ aside{
 .right-part{
   display:inline-block;
   width:65%;
+  padding-left:50px;
 }
