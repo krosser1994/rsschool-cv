@@ -1,5 +1,5 @@
-# rsschool-cv
+https://github.com/krosser1994/rsschool-cv/blob/rsschool-cv-html/index.html
 
 # My CV in HTML
 
-https://github.com/krosser1994/rsschool-cv/blob/rsschool-cv-html/index.html
+# rsschool-cv
